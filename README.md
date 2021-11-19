@@ -1,4 +1,13 @@
 # PersonalDevelopement
 A brief overview of topics of what I have been going through, Throughout my PD time.
 
-# tekfgjfkd
+# WEEK 1
+The first week of the Credersi training, consisted of the group conducting alot of research about testing, and why testing is done. So throughout my personal developement time within the first week alot of it consisted of me conducting my own research as to different methods of testing. The advantages of them, the disadvantages of them, and so on and so forth. Aswell as conducting research on automation. what Automation is, and how much a lot of companies and turning towards this format of testing, as it much more quicker and efficient.We had learnt about the SDLC, and the 7 testing principles aswell, and a predominent amount of my time in PD was spent looking on the ISTQB syllabus, and what we are to possibly look at next, as well as part taking in mock exams.
+# WEEK 2
+in the second week, the group was set individual presentations, and at first I was quite unsure what to select as a topic for my presentation, so I had then used my PD time, in this week to gather all the relevant research, and  construct my presentation.
+# WEEK 3
+In the third week of my training course, the instructors had gone over release planning, and what release planning was. It was very informative, and in the PD in this week I had a mess around with different softwares such as Trello, and learning the syntax of words that I was unfamiliar with, I.e User stories, and epics. My PD time within this week consisted of me learning by recapping over the existing recordings from the instructors, and adding to my notes, and watching youTube beginner tutorials on Agile Release Planning.
+# WEEK 4
+In week 4 we was set a task to construct a HTML portfolio website, which had certain elements of JS within it. The PD in this week was driven towards the completion of this task, I was also looking at youtube tutorials to incorporate certain elements in my webpage, assisting others, and also learning from everyone else in my group. This week was a great productive week, and it taught me to ask around my fellow graduates when stuck on something.
+# WEEK 5 
+This week we started off learning about different testing types. Functional/Non functional etc. It was a week which had a lot to comprehend, and in my PD time I was looking through the ISTQ glossary, and marking down the definition of keywords, as this how they would appear in the actual exam. I had also attempted some mock questions from the website, and we had our first introduction to Cucumber this week. which meant that we was set another task. Aswell as the research in PD. Towards the end of the week I had to create some acceptance tests for the website I built, so I spent alot of PD with the instructors, gaining an insight into what type of tests to conduct and any difficulties I was having.
